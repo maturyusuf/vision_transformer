@@ -1,6 +1,6 @@
 # Vision Transformer (ViT) - PyTorch Implementation
 
-This repository contains a PyTorch implementation of the **Vision Transformer (ViT)** model, which is a novel architecture for image classification tasks. The code is based on the **Vision Transformer article** by [Math Nguyen](https://medium.com/@brianpulfer/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c) on Medium.
+This repository contains a PyTorch implementation of the **Vision Transformer (ViT)** model, which is a novel architecture for image classification tasks.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -10,7 +10,6 @@ This repository contains a PyTorch implementation of the **Vision Transformer (V
 ## Introduction
 The Vision Transformer (ViT) is a deep learning architecture that uses transformers (originally designed for NLP tasks) to handle image data. It divides the image into smaller patches and processes these patches in parallel through transformer layers. This project aims to provide a simple, yet functional, PyTorch implementation of ViT.
 
-This code is primarily inspired by **Math Nguyen's** detailed step-by-step guide on Medium, which can be found [here](https://medium.com/@brianpulfer/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c). This repository is a clean, modular version of the implementation that you can use for your own tasks or as a starting point for your own experiments with Vision Transformers.
 
 ## Installation
 
